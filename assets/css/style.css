@@ -20,8 +20,8 @@
   --persian-green: hsl(0, 100%, 39%);
   --granite-gray: hsl(0, 0%, 40%);
   --spring-green: hsl(0, 100%, 39%);
-  --ultramarine: hsl(0, 100%, 39%);
-  --blue-violet: hsl(0, 100%, 39%);
+  --ultramarine: hsl(0, 0%, 12%);
+  --blue-violet: hsl(0, 0%, 12%);
   --smoky-black: hsl(0, 100%, 39%);
   --dark-orange: hsl(0, 100%, 39%);
   --winter-sky: hsl(0, 100%, 39%);
@@ -33,7 +33,7 @@
   --white_50: hsla(0, 0%, 100%, 0.5);
   --white-1: hsl(0, 0%, 12%);
   --white-2: hsl(0, 0%, 11%);
-  --white-3: hsl(0, 0%, 11%);
+  --white-3: hsla(0, 0%, 100%, 0.5);
   --black: hsl(0, 17%, 92%);
 
   /**
@@ -544,15 +544,15 @@ body {
 }
 
 .about-card-2 {
-  background-image: var(--gradient-4);
+  background-image: var(--gradient-3);
 }
 
 .about-card-3 {
-  background-image: var(--gradient-5);
+  background-image: var(--gradient-3);
 }
 
 .about-card-4 {
-  background-image: var(--gradient-6);
+  background-image: var(--gradient-3);
 }
 
 .about-card .card-banner {
@@ -710,11 +710,11 @@ body {
 
 .support {
   background-image: var(--gradient-2);
-  color: var(--white-1);
+  color: var(--white-3);
 }
 
 .support .section-title {
-  color: var(--white-1);
+  color: var(--white-3);
 }
 
 .support .section-text {
