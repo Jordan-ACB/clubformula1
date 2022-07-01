@@ -205,6 +205,7 @@ body {
 .w-100 {
   width: 80%;
   height: 100%;
+  align-items: center;
 }
 
 .h1,
