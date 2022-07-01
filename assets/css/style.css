@@ -20,18 +20,18 @@
   --persian-green: hsl(175, 80%, 33%);
   --granite-gray: hsl(0, 0%, 40%);
   --spring-green: hsl(143, 85%, 58%);
-  --ultramarine: hsl(260, 100%, 33%);
+  --ultramarine: hsl(0, 100%, 39%);
   --blue-violet: hsl(0, 90%, 53%);
-  --smoky-black: hsl(0, 0%, 89%);
+  --smoky-black: hsl(0, 100%, 39%);
   --dark-orange: hsl(33, 100%, 50%);
   --winter-sky: hsl(332, 100%, 51%);
-  --cultured-1: hsl(0, 0%, 19%);
+  --cultured-1: hsl(0, 0%, 12%);
   --cultured-2: hsl(0, 0%, 11%);
   --cultured-3: hsl(0, 0%, 94%);
   --light-gray: hsl(0, 0%, 80%);
   --alice-blue: hsl(206, 89%, 93%);
   --white_50: hsla(0, 0%, 100%, 0.5);
-  --white-1: hsl(0, 0%, 11%);
+  --white-1: hsl(0, 0%, 12%);
   --white-2: hsl(0, 0%, 11%);
   --black: hsl(0, 17%, 92%);
 
